@@ -1,4 +1,4 @@
-![preview](https://github.com/rechedev1/cleytonreche/blob/main/teste.png)
+![preview](https://github.com/rechedev1/rechedev1/blob/main/preview.png)
 
 <div>
 <a href="https://github.com/rechedev1">
